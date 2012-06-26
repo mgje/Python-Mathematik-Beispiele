@@ -21,4 +21,5 @@ Weitere Links
 - http://www.scipy.org/Cookbook
 - http://www.scipy.org/Tentative_NumPy_Tutorial
 - http://wwwpub.zih.tu-dresden.de/~knoll/python/material/
-- https://github.com/mgje/scipy-lecture-notes 
+- https://github.com/mgje/scipy-lecture-notes
+- http://glowingpython.blogspot.ch/2011/05/ 
