@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 
 
-"""
-Lösung Aufgabe 2
-"""
-
 import numpy as np
 from scipy.integrate import odeint # Abkürzung
 import pylab
