@@ -14,10 +14,10 @@ Inhalte
 (Einstieg, Ausdrücke, Zuweisungen, Schleifen, Listen
 Funktion, Verzweigungen, Rechnen mit Arrays, Darstellung von
 Kurven)
+- Populationsdynamik
 - Beispiel zum Rundreiseproblem (Traveling Salesman)
 - Numerischen Optimierung (Verbiegung eines Kranauslegers)
-- Rechnen und Visualisieren von aktuellen Meteodaten 
-- Wachstumsprobleme
+- Arbeiten mit aktuellen Meteodaten 
 - numerische Lösungen von DGL  
 
 
