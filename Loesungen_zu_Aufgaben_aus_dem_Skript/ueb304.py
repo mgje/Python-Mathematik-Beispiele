@@ -12,5 +12,6 @@ def pfadlaenge(P):
     return L    
     
 
-print pfadlaenge([[0,0], [1,0],[1,2], [0,2]])
+pfad = [[0,0], [1,0],[1,2], [0,2]]
+print pfadlaenge(pfad)
 

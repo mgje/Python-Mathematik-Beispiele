@@ -28,7 +28,7 @@ def f3(x):
 
 
 
-print "Die Ableitung der Funktion exp(x) an der Stelle %g beträgt %g" % (0,ableitung(0,f0))
-print "Die Ableitung der Funktion exp(-2x^2) an der Stelle %g beträgt %g" % (0,ableitung(0,f1))
-print "Die Ableitung der Funktion cos(x) an der Stelle %g beträgt %g" % (2*pi,ableitung(2*pi,f2))
-print "Die Ableitung der Funktion ln(x) an der Stelle %g beträgt %g" % (1,ableitung(1.0,f3))
+print "Die Ableitung von y=exp(x) an der Stelle %g beträgt %g" % (0,ableitung(0,f0))
+print "Die Ableitung von y=exp(-2x^2) an der Stelle %g beträgt %g" % (0,ableitung(0,f1))
+print "Die Ableitung von y=cos(x) an der Stelle %g beträgt %g" % (2*pi,ableitung(2*pi,f2))
+print "Die Ableitung von y=ln(x) an der Stelle %g beträgt %g" % (1,ableitung(1.0,f3))
