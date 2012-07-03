@@ -31,11 +31,12 @@ def potEnergie(X):
       w.append(el)
    w.append(P2[0])
    w.append(P2[1])
-   #print w
+   #Sum pot energy of every element
    sum=0.0
    for i in range(N):
       x=2*i
       y=2*i+1
+      # ll calculated length, lg correct length
       ll =sqrt((w[x]-w[x+2])**2+(w[y]-w[y+2])**2)
       sum+=ll*(w[y]+w[y+2])/2.0+70*(lg-ll)**2
       #print lg,ll

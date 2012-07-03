@@ -8,8 +8,8 @@ import matplotlib.pyplot as pp
 
 # Aufhaenge Punkte P1,P2
 P1=[0.0,5.0]
-P2=[4.0,8.0]
-L=7
+P2=[3.0,2.0]
+L=8
 
 def potEnergie(X):
    e=X[1]+(L-sqrt((P1[0]-X[0])**2+(P1[1]-X[1])**2) \
@@ -18,7 +18,7 @@ def potEnergie(X):
 
 def drawfig(X):
    fig = pp.figure(1,figsize=(6,8))
-   ax = fig.add_subplot(111, autoscale_on=False, xlim=(-0.1,4.4), ylim=(3.0,9.0))
+   ax = fig.add_subplot(111, autoscale_on=False, xlim=(-0.1,3.4), ylim=(-1.0,6.0))
    ax.xaxis.set_minor_locator(MultipleLocator(0.1))
    ax.yaxis.set_minor_locator(MultipleLocator(0.1))
    x_=[P1[0],X[0],P2[0]]
@@ -28,7 +28,7 @@ def drawfig(X):
    pp.show()
 
 
-x0=[2.0,7.5]
+x0=[2.0,0.5]
 xopt = optimize.fmin(potEnergie,x0, xtol=1e-9, disp=True)
 print(xopt)
 drawfig(x0)
