@@ -42,7 +42,7 @@ def gesEnergie(x,x_fix,m):
    e+=feder(1,2,100.0,1.414,X)
    e+=feder(6,3,100.0,1.414,X)
    e+=feder(5,4,100.0,1.414,X)
-   e+=9.81*m*X[7]
+   e+=9.81*m*X[9]
    return e
 
 def plotGelenk(i,j,x):
@@ -61,7 +61,7 @@ def plotKnoten(X):
     
 def plotAusleger(X):
    fig = pp.figure(2,figsize=(8,3))
-   ax = fig.add_subplot(111, autoscale_on=False, xlim=(-0.05,3.05), ylim=(-0.3,1.00))
+   ax = fig.add_subplot(111, autoscale_on=False, xlim=(-0.05,3.05), ylim=(-0.6,1.00))
    ax.xaxis.set_minor_locator(MultipleLocator(0.1))
    ax.yaxis.set_minor_locator(MultipleLocator(0.1))
    plotGelenk(0,2,X)
