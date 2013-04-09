@@ -26,7 +26,7 @@ Inhalte
 Funktion, Verzweigungen, Rechnen mit Arrays, Darstellung von
 Kurven)
 - [Python im Schuleinsatz](Python_im_Schuleinsatz.pdf?raw=true)
-- [Populationsdynamik](Populationsdynamik_koerner_Istron6.pdf)
+- [Populationsdynamik](Mathematik_Artikel/Populationsdynamik_koerner_Istron6.pdf)
 - [Beispiel zum Rundreiseproblem](Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
 - [Numerischen Optimierung](Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
 - [Arbeiten mit aktuellen Meteodaten](Python-Beispiele/openMeteoDaten) 
