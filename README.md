@@ -21,11 +21,11 @@ können die Enthought Distribution unter folgendem
 
 Inhalte
 =======
-- [Skript Wissenschaftliches Rechnen mit Python](Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf)
+- [Skript Wissenschaftliches Rechnen mit Python](Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
 (Einstieg, Ausdrücke, Zuweisungen, Schleifen, Listen
 Funktion, Verzweigungen, Rechnen mit Arrays, Darstellung von
 Kurven)
-- [Python im Schuleinsatz](Python_im_Schuleinsatz.pdf)
+- [Python im Schuleinsatz](Python_im_Schuleinsatz.pdf?raw=true)
 - [Populationsdynamik](Populationsdynamik_koerner_Istron6.pdf)
 - [Beispiel zum Rundreiseproblem](Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
 - [Numerischen Optimierung](Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
