@@ -42,6 +42,6 @@ Weitere Links
 
 Julia interaktive
 =================
-- [Julia SVD Test NbViewer](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/svd.ipyn)
+- [Julia SVD Test NbViewer](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/svd.ipynb)
 
 
