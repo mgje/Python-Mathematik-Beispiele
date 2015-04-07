@@ -32,7 +32,6 @@ Kurven)
 - [Arbeiten mit aktuellen Meteodaten](Python-Beispiele/openMeteoDaten) 
 - [numerische Lösungen von DGL](Python-Beispiele/numDGL)  
 
-
 Weitere Links
 =============
 - [http://www.scipy.org/Cookbook](http://www.scipy.org/Cookbook)
@@ -40,3 +39,10 @@ Weitere Links
 - [http://wwwpub.zih.tu-dresden.de/~knoll/python/material/](http://wwwpub.zih.tu-dresden.de/~knoll/python/material/)
 - [https://github.com/mgje/scipy-lecture-notes](https://github.com/mgje/scipy-lecture-notes)
 - [http://glowingpython.blogspot.ch/2011/05/](http://glowingpython.blogspot.ch/2011/05/)
+
+Julia interaktive
+=================
+- [Julia SVD Test NbViewer](http://nbviewer.ipython.org/github/dpsanders/scipy_2014_julia/blob/master/Index.ipynb).
+
+
+
