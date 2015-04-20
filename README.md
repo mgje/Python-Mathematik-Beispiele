@@ -42,6 +42,7 @@ Weitere Links
 
 Julia interaktive
 =================
+- [Julia Beispiele](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Examples_Julia_mgu.ipynb)
 - [Julia SVD Test NbViewer](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/svd.ipynb)
 - [Gadfly NBViewer](http://nbviewer.ipython.org/github/JuliaCon/presentations/blob/master/Gadfly/Gadfly%20--%20JuliaCon%202014.ipynb)
 - [React NBViewer](http://nbviewer.ipython.org/github/JuliaCon/presentations/blob/master/Gadfly/React%20Demo.ipynb)
