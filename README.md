@@ -40,7 +40,7 @@ Weitere Links
 - [https://github.com/mgje/scipy-lecture-notes](https://github.com/mgje/scipy-lecture-notes)
 - [http://glowingpython.blogspot.ch/2011/05/](http://glowingpython.blogspot.ch/2011/05/)
 
-Julia interaktive
+Julia Notebooks
 =================
 - [Julia Beispiele](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Examples_Julia_mgu.ipynb)
 - [Julia SVD Test NbViewer](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/svd.ipynb)
@@ -49,3 +49,9 @@ Julia interaktive
 - [scrape headline with python](http://nbviewer.ipython.org/github/nealcaren/workshop_2014/blob/master/notebooks/4_Upworthy.ipynb) find more in [github repository](https://github.com/nealcaren/workshop_2014/tree/master/notebooks)
 - [Mandelbrot](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Mandelbrot Menge.ipynb)
 - [Floyd-Warshall](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Algorithmus von Floyd und Warshall.ipynb)
+
+Einstieg ins wissenschaftliche Rechnen
+======================================
+
+- [Modellierung dynamischer Systeme](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Modellierung dynamischer Systeme.ipynb)
+
