@@ -17,7 +17,7 @@ Arbeiten im Computerlabor
 	- :symbols: Command+A : ```Terminal``` + :leftwards_arrow_with_hook: Enter
 
 1. IPython Notebook aus Terminal starten
-	- ```/usr/local/anaconda/bin/ipython notebook --brwoser=chromium-browser``` 
+	- ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` 
 
 1. Verschiedene interaktive Arbeitsblätter finden sich im Ordner: ```Downloads/Python-Notebooks```
 	- Klicken Sie auf Downloads
