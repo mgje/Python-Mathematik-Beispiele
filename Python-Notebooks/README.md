@@ -5,16 +5,16 @@ Arbeiten im Computerlabor
 	- 2 x Pfeiltaste rechts drücken und  Ubuntu wählen
 	-  :bust_in_silhouette: User: Enter drücken :leftwards_arrow_with_hook:
 1. Einloggen 
-	- :bust_in_silhouette: User: ```gast``` + :leftwards_arrow_with_hook:Enter,  Passwort: ```gast``` + :leftwards_arrow_with_hook:Enter
+	- :bust_in_silhouette: User: ```gast``` + Enter :leftwards_arrow_with_hook: ,  Passwort: ```gast``` + Enter :leftwards_arrow_with_hook:
 1. Browser Chromium starten
-	- :symbols: Command+A drücken,  ```chromium``` + :leftwards_arrow_with_hook:Enter
+	- :symbols: Command+A drücken,  ```chromium``` + Enter :leftwards_arrow_with_hook:
 1. Download Archiv mit Python Notebooks
 	- :page_with_curl: [https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master](https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master)	
 1. Archiv öffnen und Ordner Python-Notebooks nach Downloads extrahieren.
 	- Datei anklicken
 	- Ordner Python-Notbooks nach Downloads extrahieren
 1. Terminal starten
-	- :symbols: Command+A : ```Terminal``` + :leftwards_arrow_with_hook: Enter
+	- :symbols: Command+A : ```Terminal``` +  Enter :leftwards_arrow_with_hook:
 
 1. IPython Notebook aus Terminal starten
 	- ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` 
@@ -23,12 +23,13 @@ Arbeiten im Computerlabor
 	- Klicken Sie auf Downloads
 	- Klicken Sie auf Python Notebooks
 
-IPython Notebook Bedienung und Befehle
-======================================
+Bedienung und Befehle
+=====================
 
 ### IPython Notebook starten / stoppen
 
-- Start
+- Starten:  Terminalbefehl ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` 
+- Stoppen:  Terminal anwählen, :symbols: Ctrl + C drücken und Abbruch mit ```y``` :leftwards_arrow_with_hook: bestätigen.
 
 
 ### IPython Notebook Befehle ausführen
