@@ -1,8 +1,10 @@
 Arbeiten im Computerlabor
 =========================
 
-1. Einloggen mit 
+1. Einloggen 
 	- gast:gast
+1. Browser Chromium starten
+	- Command+A : chromium	
 - Terminal starten
 	- Suchefenster öffnen (oben rechts)
 	- Nach Terminal suchen
