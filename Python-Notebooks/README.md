@@ -2,7 +2,7 @@ Arbeiten im Computerlabor
 =========================
 1. MacMini hinten rechts einschalten
 1. Mit Linux starten
-	- 2 x Pfeiltaste Rechts Ubuntu wählen
+	- 2 x Pfeiltaste rechts drücken und  Ubuntu wählen
 	-  :bust_in_silhouette: User: Enter drücken :leftwards_arrow_with_hook:
 1. Einloggen 
 	- :bust_in_silhouette: User: ```gast``` + :leftwards_arrow_with_hook:Enter,  Passwort: ```gast``` + :leftwards_arrow_with_hook:Enter
