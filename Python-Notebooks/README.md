@@ -3,7 +3,7 @@ Arbeiten im Computerlabor
 1. MacMini hinten rechts einschalten
 1. Mit Linux starten
 	- 2 x Pfeiltaste Rechts Ubuntu wählen
-	- :leftwards_arrow_with_hook: :bust_in_silhouette: User: Enter drücken
+	-  :bust_in_silhouette: User: Enter drücken :leftwards_arrow_with_hook:
 1. Einloggen 
 	- :bust_in_silhouette: User: ```gast``` + :leftwards_arrow_with_hook:Enter,  Passwort: ```gast``` + :leftwards_arrow_with_hook:Enter
 1. Browser Chromium starten
@@ -14,7 +14,7 @@ Arbeiten im Computerlabor
 	- Datei anklicken
 	- Ordner Python-Notbooks nach Downloads extrahieren
 1. Terminal starten
-	- :symbols: Command+A : ```Terminal```
+	- :symbols: Command+A : ```Terminal``` + :leftwards_arrow_with_hook: Enter
 
 1. IPython Notebook aus Terminal starten
 	- ```/usr/local/anaconda/bin/ipython notebook --brwoser=chromium-browser``` 
