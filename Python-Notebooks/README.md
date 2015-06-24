@@ -2,9 +2,9 @@ Arbeiten im Computerlabor
 =========================
 
 1. Einloggen 
-	- gast:gast
+	- :bust_in_silhouette: gast:gast
 1. Browser Chromium starten
-	- Command+A : chromium	
+	- :symbols: Command+A : chromium	
 - Terminal starten
 	- Suchefenster öffnen (oben rechts)
 	- Nach Terminal suchen
