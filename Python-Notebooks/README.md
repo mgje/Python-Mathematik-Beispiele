@@ -9,7 +9,7 @@ Arbeiten im Computerlabor
 	- :page_with_curl: [https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master](https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master)	
 1. Archiv öffnen und Ordner Python-Notebooks nach Downloads extrahieren.
 1. Terminal starten
-	- :symbols: Command+A : chromium
+	- :symbols: Command+A : ```Terminal```
 
 1. ipython starten mit
 	- ```/usr/local/anaconda/bin/ipython``` 
