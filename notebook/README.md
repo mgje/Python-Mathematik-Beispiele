@@ -19,7 +19,7 @@ Unterlagen + Beispiele Programmierung mit Python
 Arbeitsaufträge zum Workshop Simulationen
 =========================================
 
-1. Material downloaden
+1. [Material downloaden](https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master/notebook)
 -  iPython starten
 -  
 
