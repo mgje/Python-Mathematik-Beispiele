@@ -30,3 +30,12 @@ Online Materialien
 ==================
 - [Interaktive Experimente](http://mgje.github.io/Interaktive_Experimente/)
 - Terminal Befehle
+
+
+TODO
+====
+- Schreibrecht auf Desktop
+- Lan-Party Link entfernen
+- Import Error matplotlib
+- Import libpng15
+- Julia und PythonNotebooks trennen
