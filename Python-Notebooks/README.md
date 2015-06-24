@@ -11,9 +11,11 @@ Arbeiten im Computerlabor
 1. Terminal starten
 	- :symbols: Command+A : ```terminal```
 
-1. ipython starten mit
-	- ```/usr/local/anaconda/bin/ipython``` 
+1. IPython Notebook aus Terminal starten
+	- ```/usr/local/anaconda/bin/ipython notebook --brwoser=chromium-browser``` 
 
+1. Verschiedene interaktive Arbeitsblätter finden sich im Ordner:
+	- Downloads/Python-Notebooks
 
 Unterlagen + Beispiele Programmierung mit Python 
 ================================================
