@@ -26,6 +26,22 @@ Arbeiten im Computerlabor
 IPython Notebook Bedienung und Befehle
 ======================================
 
+### IPython Notebook starten / stoppen
+
+- Start
+
+
+### IPython Notebook Befehle ausführen
+
+- Block ausführen
+- Alles Ausführen
+
+- Bei den verschieden Beispiele können meist die Parameter verändert werden.
+
+
+
+Schwarm Parameter bekannt geben.
+
 
 
 Unterlagen + Beispiele Programmierung mit Python 
