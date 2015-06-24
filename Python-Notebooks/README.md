@@ -30,47 +30,31 @@ Bedienung und Befehle
 
 - Starten:  Terminalbefehl ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` 
 - Stoppen:  Terminal anwählen, :symbols: Ctrl + C drücken und Abbruch mit ```y``` :leftwards_arrow_with_hook: bestätigen.
+- Eine Simulation kann mit Hilfe von Kernel/Restart neu gestartet werden. Dies hilft auch, wenn das System irgenwo hängt. 
 
 
-### IPython Notebook Befehle ausführen
+### IPython Notebook Befehle
 
-- Block ausführen
-- Alles Ausführen
-
-- Bei den verschieden Beispiele können meist die Parameter verändert werden.
-
-
-
-Schwarm Parameter bekannt geben.
-
-
-
-Unterlagen + Beispiele Programmierung mit Python 
-================================================
-
-- http://mgje.github.com/Python-Mathematik-Beispiele/
-
-
-Arbeitsaufträge zum Workshop Simulationen
-=========================================
-
-1. [Material downloaden](https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master/)
--  iPython starten
--  
+- Mit der Tastenkobination CTRL + Enter kann ein einzelner Block ausgeführt werden.
+- Eine interaktive IPython Notebook Tour lässt im Menü Help/User Interface Tour starten
+- Die Keyboard Shortcuts finden Sie im Menü Help/Keyboard Shortcuts 
+- Mit a,b lassen sich neue Blöcke einfügen
+- Mit dem Menüpunkt Cell/Run All können alle Blöcke automatisch der Reihe nach ausgeführt werden.
 
 
 
+Unterlagen zur Programmierung mit Python 
+=======================================
 
-Online Materialien
-==================
+- [Skript Wissenschatliches Rechnen mit Python, Guggisberg](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
+- [Programmieren mit Python, Arnold,Kohn,Plüss](http://www.tigerjython.ch/index.php?inhalt_links=navigation.inc.php&inhalt_mitte=home/home.inc.php)
+- [Programmieren mit Python, Kohn](http://jython.tobiaskohn.ch/index-de.html)
+
+
+
+weitere Online Materialien
+==========================
+
+- [Lehrmittel Informatik Biber](http://informatik-biber.ch/lehrmittel/)
 - [Interaktive Experimente](http://mgje.github.io/Interaktive_Experimente/)
-- Terminal Befehle
 
-
-TODO
-====
-- Schreibrecht auf Desktop
-- Lan-Party Link entfernen
-- Import Error matplotlib
-- Import libpng15
-- Julia und PythonNotebooks trennen
