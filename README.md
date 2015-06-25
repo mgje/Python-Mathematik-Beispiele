@@ -1,11 +1,7 @@
-Python-Mathematik-Beispiele
-===========================
-Unterlagen + Beispiele und zu Mathematik und Python-Programmierung 
-http://mgje.github.com/Python-Mathematik-Beispiele/
+[Python-Mathematik-Beispiele](http://mgje.github.com/Python-Mathematik-Beispiele/)
+=============================
 
-
-Inhalte
-=======
+## Inhalte
 - [Skript Wissenschaftliches Rechnen mit Python](Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
 (Einstieg, Ausdrücke, Zuweisungen, Schleifen, Listen
 Funktion, Verzweigungen, Rechnen mit Arrays, Darstellung von
