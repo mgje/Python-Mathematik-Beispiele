@@ -1,9 +1,11 @@
 [Python-Mathematik-Beispiele](http://mgje.github.com/Python-Mathematik-Beispiele/)
 =============================
 
-# Interaktive Python-Notebooks
+## Interaktive Python-Notebooks
 - [Modellierung dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
-
+- [Reaktions-Diffusions-System oder wie die Giraffe ihr Muster erhält](Python-Notebooks/Reaktions-Diffusions-System.ipynb)
+- [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)
+- [Statiksimulation](Python-Notebooks/Federmodell.ipynb)
 
 ## Unterlagen und Python Sourcecode
 - [Skript Wissenschaftliches Rechnen mit Python](Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
@@ -16,8 +18,6 @@ Kurven)
 - [Numerischen Optimierung, Python Sourcecode](Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
 - [Arbeiten mit aktuellen Meteodaten, Python Sourcecode](Python-Beispiele/openMeteoDaten) 
 - [numerische Lösungen von DGL, Python Sourcecode](Python-Beispiele/numDGL)  
-
-
 
 ## Julia-Notebooks
 [Julia](http://julialang.org/)  ist eine neue ***high-level***, ___high-performance___ dynamische Programmiersprache. Um die Beispiele auführen zu können muss IPython und die Programmiersprache [JULIA](http://julialang.org/) installiert sein.
