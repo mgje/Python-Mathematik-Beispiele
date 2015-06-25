@@ -1,3 +1,9 @@
+Elektronische Unterlagen
+========================
+* [HTML-5 Slides: Virtuelle Modelle und Simulationen ](http://mgje.github.io/presentations/simulation/#/) [http://mgje.github.io/presentations/simulation/#/](http://mgje.github.io/presentations/simulation/#/)
+* [Anleitung zum Arbeiten im Computerlabor](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/)
+
+
 Arbeiten im Computerlabor
 =========================
 1. MacMini hinten rechts einschalten
