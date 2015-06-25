@@ -41,8 +41,8 @@ Arbeiten im Computerlabor
 - Mit der Tastenkobination CTRL + Enter kann ein einzelner Block ausgeführt werden.
 - Eine interaktive IPython Notebook Tour lässt im Menü Help/User Interface Tour starten
 - Die Keyboard Shortcuts finden Sie im Menü Help/Keyboard Shortcuts 
-- Mit a,b lassen sich neue Blöcke einfügen
-- Mit dem Menüpunkt Cell/Run All können alle Blöcke automatisch der Reihe nach ausgeführt werden.
+- Mit der Taste a oder b lassen sich neue Blöcke einfügen
+- Mit dem Menüpunkt Cell / Run All können alle Blöcke automatisch der Reihe nach ausgeführt werden.
 
 ## Unterlagen zur Programmierung mit Python 
 
