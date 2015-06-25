@@ -1,6 +1,6 @@
 Elektronische Unterlagen
 ========================
-* HTML-5 Slides: Virtuelle Modelle und Simulationen  [http://mgje.github.io/presentations/simulation/#/](http://mgje.github.io/presentations/simulation/#/) oder [http://goo.gl/V2Hvs6](http://goo.gl/V2Hvs6)
+* HTML-5 Slides: Virtuelle Modelle und Simulationen  [http://mgje.github.io/presentations/simulation/#/](http://mgje.github.io/presentations/simulation/#/) oder __[http://goo.gl/V2Hvs6](http://goo.gl/V2Hvs6)__
 * Anleitung zum Arbeiten im Computerlabor [https://github.com/mgje/Python-Mathematik-Beispiele/tree/master/Python-Notebooks](https://github.com/mgje/Python-Mathematik-Beispiele/tree/master/Python-Notebooks) oder __[https://goo.gl/qD8yqw](https://goo.gl/qD8yqw)__
 
 Arbeiten im Computerlabor
