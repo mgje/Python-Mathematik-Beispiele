@@ -24,20 +24,19 @@ Arbeiten im Computerlabor
 1. IPython Notebook aus Terminal starten
 	- ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` 
 
-1. Verschiedene interaktive Arbeitsblätter finden sich im Ordner: ```Downloads/Python-Notebooks```
+1. Die interaktiven Arbeitsblätter finden sich im Ordner: ```Downloads/Python-Notebooks```
+
+![screenshot](https://raw.githubusercontent.com/mgje/Python-Mathematik-Beispiele/master/Python-Notebooks/images/Screenshotjupyter.png)
 
 
-Bedienung und Befehle
-=====================
-
-### IPython Notebook starten / stoppen
+## IPython Notebook starten / stoppen
 
 - Starten:  Terminalbefehl ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` 
 - Stoppen:  Terminal anwählen, :symbols: Ctrl + C drücken und Abbruch mit ```y``` :leftwards_arrow_with_hook: bestätigen.
 - Eine Simulation kann mit Hilfe von Kernel/Restart neu gestartet werden. Dies hilft auch, wenn das System irgenwo hängt. 
 
 
-### IPython Notebook Befehle
+## IPython Notebook Befehle
 
 - Mit der Tastenkobination CTRL + Enter kann ein einzelner Block ausgeführt werden.
 - Eine interaktive IPython Notebook Tour lässt im Menü Help/User Interface Tour starten
@@ -45,19 +44,13 @@ Bedienung und Befehle
 - Mit a,b lassen sich neue Blöcke einfügen
 - Mit dem Menüpunkt Cell/Run All können alle Blöcke automatisch der Reihe nach ausgeführt werden.
 
-
-
-Unterlagen zur Programmierung mit Python 
-=======================================
+## Unterlagen zur Programmierung mit Python 
 
 - [Skript Wissenschatliches Rechnen mit Python, Guggisberg](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
 - [Programmieren mit Python, Arnold,Kohn,Plüss](http://www.tigerjython.ch/index.php?inhalt_links=navigation.inc.php&inhalt_mitte=home/home.inc.php)
 - [Programmieren mit Python, Kohn](http://jython.tobiaskohn.ch/index-de.html)
 
-
-
-weitere Online Materialien
-==========================
+## Weitere Online Materialien
 
 - [Lehrmittel Informatik Biber](http://informatik-biber.ch/lehrmittel/)
 - [Interaktive Experimente](http://mgje.github.io/Interaktive_Experimente/)
