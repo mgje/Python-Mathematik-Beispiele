@@ -1,9 +1,41 @@
 Python-Mathematik-Beispiele
 ===========================
 Unterlagen + Beispiele und zu Mathematik und Python-Programmierung 
-
 http://mgje.github.com/Python-Mathematik-Beispiele/
 
+
+Inhalte
+=======
+- [Skript Wissenschaftliches Rechnen mit Python](Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
+(Einstieg, Ausdrücke, Zuweisungen, Schleifen, Listen
+Funktion, Verzweigungen, Rechnen mit Arrays, Darstellung von
+Kurven)
+- [Python im Schuleinsatz](Python_im_Schuleinsatz.pdf?raw=true)
+- [Artikel zur Populationsdynamik](Mathematik_Artikel/Populationsdynamik_koerner_Istron6.pdf)
+- [Beispiel zum Rundreiseproblem](Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
+- [Numerischen Optimierung](Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
+- [Arbeiten mit aktuellen Meteodaten](Python-Beispiele/openMeteoDaten) 
+- [numerische Lösungen von DGL](Python-Beispiele/numDGL)  
+
+Python-Notebooks
+================
+- [Modellierung dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
+
+
+Julia-Notebooks
+=================
+- [Julia Beispiele](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Examples_Julia_mgu.ipynb)
+- [Julia SVD Test NbViewer](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/svd.ipynb)
+- [Gadfly NBViewer](http://nbviewer.ipython.org/github/JuliaCon/presentations/blob/master/Gadfly/Gadfly%20--%20JuliaCon%202014.ipynb)
+- [React NBViewer](http://nbviewer.ipython.org/github/JuliaCon/presentations/blob/master/Gadfly/React%20Demo.ipynb)
+- [scrape headline with python](http://nbviewer.ipython.org/github/nealcaren/workshop_2014/blob/master/notebooks/4_Upworthy.ipynb) find more in [github repository](https://github.com/nealcaren/workshop_2014/tree/master/notebooks)
+- [Mandelbrot](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Mandelbrot Menge.ipynb)
+- [Floyd-Warshall](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Algorithmus von Floyd und Warshall.ipynb)
+
+Einstieg ins wissenschaftliche Rechnen
+======================================
+
+- [Modellierung dynamischer Systeme](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Modellierung dynamischer Systeme.ipynb)
 
 Installation von Python und den nötigen Bibliotheken
 ====================================================
@@ -20,19 +52,6 @@ können die Enthought Distribution unter folgendem
 [Link](http://www.enthought.com/products/epd_free.php) beziehen.
 
 
-Inhalte
-=======
-- [Skript Wissenschaftliches Rechnen mit Python](Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
-(Einstieg, Ausdrücke, Zuweisungen, Schleifen, Listen
-Funktion, Verzweigungen, Rechnen mit Arrays, Darstellung von
-Kurven)
-- [Python im Schuleinsatz](Python_im_Schuleinsatz.pdf?raw=true)
-- [Populationsdynamik](Mathematik_Artikel/Populationsdynamik_koerner_Istron6.pdf)
-- [Beispiel zum Rundreiseproblem](Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
-- [Numerischen Optimierung](Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
-- [Arbeiten mit aktuellen Meteodaten](Python-Beispiele/openMeteoDaten) 
-- [numerische Lösungen von DGL](Python-Beispiele/numDGL)  
-
 Weitere Links
 =============
 - [http://www.scipy.org/Cookbook](http://www.scipy.org/Cookbook)
@@ -40,19 +59,3 @@ Weitere Links
 - [http://wwwpub.zih.tu-dresden.de/~knoll/python/material/](http://wwwpub.zih.tu-dresden.de/~knoll/python/material/)
 - [https://github.com/mgje/scipy-lecture-notes](https://github.com/mgje/scipy-lecture-notes)
 - [http://glowingpython.blogspot.ch/2011/05/](http://glowingpython.blogspot.ch/2011/05/)
-
-Julia Notebooks
-=================
-- [Julia Beispiele](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Examples_Julia_mgu.ipynb)
-- [Julia SVD Test NbViewer](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/svd.ipynb)
-- [Gadfly NBViewer](http://nbviewer.ipython.org/github/JuliaCon/presentations/blob/master/Gadfly/Gadfly%20--%20JuliaCon%202014.ipynb)
-- [React NBViewer](http://nbviewer.ipython.org/github/JuliaCon/presentations/blob/master/Gadfly/React%20Demo.ipynb)
-- [scrape headline with python](http://nbviewer.ipython.org/github/nealcaren/workshop_2014/blob/master/notebooks/4_Upworthy.ipynb) find more in [github repository](https://github.com/nealcaren/workshop_2014/tree/master/notebooks)
-- [Mandelbrot](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Mandelbrot Menge.ipynb)
-- [Floyd-Warshall](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Algorithmus von Floyd und Warshall.ipynb)
-
-Einstieg ins wissenschaftliche Rechnen
-======================================
-
-- [Modellierung dynamischer Systeme](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Modellierung dynamischer Systeme.ipynb)
-
