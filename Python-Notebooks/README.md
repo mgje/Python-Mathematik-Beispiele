@@ -12,7 +12,7 @@ Arbeiten im Computerlabor
 	- :bust_in_silhouette: User: ```gast``` + Enter :leftwards_arrow_with_hook: ,  Passwort: ```gast``` + Enter :leftwards_arrow_with_hook:
 1.Chromium Browser starten
 	- :symbols: Command+A drücken,  ```chromium``` + Enter :leftwards_arrow_with_hook:
-1. Download Archiv mit Python Notebooks
+1. Python-Notebooks von GitHub __herunterladen__
 	- :page_with_curl: [https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master](https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master)	
 1. Archiv öffnen und Ordner Python-Notebooks nach Downloads extrahieren.
 	- Datei anklicken
