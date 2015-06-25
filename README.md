@@ -38,7 +38,7 @@ Softwarepakete (Bibliotheken), welche Python für spezifische Aufgaben erweitern
 Eine Übersicht der verschiedenen Pakete liefert die Seite 
 [http://pypi.python.org/pypi](http://pypi.python.org/pypi). 
 Die Vielzahl an unterschiedlichen Möglichkeiten einer Installation erschweren das 
-Leben für Einsteiger. Hier bietet die freie [Entwicklungsumgebung TigerJython](http://jython.tobiaskohn.ch/index-de.html) einen einfache Lösung. Einsteiger können nach dem herunterladen einer Datei direkt starten.
+Leben für Einsteiger. Hier bietet die freie [Entwicklungsumgebung TigerJython](http://jython.tobiaskohn.ch/index-de.html) einen einfache Lösung. Einsteiger können nach dem Herunterladen einer Datei direkt starten.
 
 Das Projekt [Anaconda](http://docs.continuum.io/anaconda/install.html) ist ein Paketmanagement System für
 alle Plattformen. Python und IPython lassen sich damit auf einfache Art und Weise installieren.
