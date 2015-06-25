@@ -20,9 +20,7 @@ Kurven)
 
 
 ## Julia-Notebooks
-[Julia](http://julialang.org/)  ist eine neue ***high-level***, ___high-performance___, dynamische Programmiersprache.
-Julia is a high-level, high-performance dynamic programming language
-Um die Beispiele auführen zu können muss IPython und die Programmiersprache [JULIA](http://julialang.org/) installiert sein.
+[Julia](http://julialang.org/)  ist eine neue ***high-level***, ___high-performance___ dynamische Programmiersprache. Um die Beispiele auführen zu können muss IPython und die Programmiersprache [JULIA](http://julialang.org/) installiert sein.
 
 - [Algorithmus von Floyd and Warshall](JULIA-Notebooks/Algorithmus%20von%20Floyd%20und%20Warshall.ipynb)
 - [Mandelbrot Menge](JULIA-Notebooks/Julia%20Mandelbrot%20Menge.ipynb)
