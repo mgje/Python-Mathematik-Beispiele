@@ -1,21 +1,22 @@
 [Python-Mathematik-Beispiele](http://mgje.github.com/Python-Mathematik-Beispiele/)
 =============================
 
-## Inhalte
+# Interaktive Python-Notebooks
+- [Modellierung dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
+
+
+## Unterlagen
 - [Skript Wissenschaftliches Rechnen mit Python](Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
 (Einstieg, Ausdrücke, Zuweisungen, Schleifen, Listen
 Funktion, Verzweigungen, Rechnen mit Arrays, Darstellung von
 Kurven)
-- [Präsentation: Python im Schuleinsatz (2012)](Python_im_Schuleinsatz.pdf?raw=true)
+- [Python im Schuleinsatz (2012), Folien (PDF)](Python_im_Schuleinsatz.pdf?raw=true)
 - [Artikel zur Populationsdynamik](Mathematik_Artikel/Populationsdynamik_koerner_Istron6.pdf)
 - [Beispiel zum Rundreiseproblem](Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
 - [Numerischen Optimierung](Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
 - [Arbeiten mit aktuellen Meteodaten](Python-Beispiele/openMeteoDaten) 
 - [numerische Lösungen von DGL](Python-Beispiele/numDGL)  
 
-Python-Notebooks
-================
-- [Modellierung dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
 
 
 Julia-Notebooks
