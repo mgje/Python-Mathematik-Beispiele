@@ -6,7 +6,7 @@
 (Einstieg, Ausdrücke, Zuweisungen, Schleifen, Listen
 Funktion, Verzweigungen, Rechnen mit Arrays, Darstellung von
 Kurven)
-- [Python im Schuleinsatz](Python_im_Schuleinsatz.pdf?raw=true)
+- [Präsentation: Python im Schuleinsatz (2012)](Python_im_Schuleinsatz.pdf?raw=true)
 - [Artikel zur Populationsdynamik](Mathematik_Artikel/Populationsdynamik_koerner_Istron6.pdf)
 - [Beispiel zum Rundreiseproblem](Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
 - [Numerischen Optimierung](Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
