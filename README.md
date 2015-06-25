@@ -1,5 +1,5 @@
-[Python-Mathematik-Beispiele](http://mgje.github.com/Python-Mathematik-Beispiele/)
-=============================
+Python-Mathematik-Beispiele
+===========================
 
 ## Interaktive Python-Notebooks [Link](Python-Notebooks/)
 - [Modellierung dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
