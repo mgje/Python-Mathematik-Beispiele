@@ -19,15 +19,10 @@ Kurven)
 
 
 
-Julia-Notebooks
-=================
-- [Julia Beispiele](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Examples_Julia_mgu.ipynb)
-- [Julia SVD Test NbViewer](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/svd.ipynb)
-- [Gadfly NBViewer](http://nbviewer.ipython.org/github/JuliaCon/presentations/blob/master/Gadfly/Gadfly%20--%20JuliaCon%202014.ipynb)
-- [React NBViewer](http://nbviewer.ipython.org/github/JuliaCon/presentations/blob/master/Gadfly/React%20Demo.ipynb)
-- [scrape headline with python](http://nbviewer.ipython.org/github/nealcaren/workshop_2014/blob/master/notebooks/4_Upworthy.ipynb) find more in [github repository](https://github.com/nealcaren/workshop_2014/tree/master/notebooks)
-- [Mandelbrot](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Mandelbrot Menge.ipynb)
-- [Floyd-Warshall](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Algorithmus von Floyd und Warshall.ipynb)
+## Julia-Notebooks
+Um die Julia Beispiele auführen zu können muss IPython und die Programmiersprache [JULIA](http://julialang.org/) installiert sein.
+
+
 
 
 Installation von Python und den nötigen Bibliotheken
