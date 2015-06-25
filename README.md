@@ -22,11 +22,11 @@ Kurven)
 ## Julia-Notebooks
 Um die Julia Beispiele auführen zu können muss IPython und die Programmiersprache [JULIA](http://julialang.org/) installiert sein.
 
+-[Algorithmus von Floyd and Warshall](JULIA-Notebooks/Algorithmus%20von%20Floyd%20und%20Warshall.ipynb)
 
 
 
-Installation von Python und den nötigen Bibliotheken
-====================================================
+## Installation von Python und den nötigen Bibliotheken
 Ein Grund für den Erfolg von Python ist die freie Verfügbarkeit (open source) 
 und die Unterstützung aller Plattformen(Win,OSX und Linux). Es gibt unzählige 
 Softwarepakete (Bibliotheken), welche Python für spezifische Aufgaben erweitern. 
@@ -41,9 +41,7 @@ Die kommerzielle Lösung der Firma Enthought ermöglicht eine automatisierte Ins
 alle Plattformen und beinhaltet eine grossen Anzahl Bibliotheken. Bildungsinstitutionen 
 können eine Distribution unter folgendem [Link](http://www.enthought.com/products/epd_free.php) beziehen.
 
-
-Weitere Links
-=============
+## Weitere Links
 - [Programmieren mit Python, Arnold,Kohn,Plüss](http://www.tigerjython.ch/index.php?inhalt_links=navigation.inc.php&inhalt_mitte=home/home.inc.php)
 - [Programmieren mit Python, Kohn](http://jython.tobiaskohn.ch/index-de.html)
 - [Programmieraufgaben](http://www.programmieraufgaben.ch/)
