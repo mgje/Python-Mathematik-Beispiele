@@ -49,6 +49,7 @@ Weitere Links
 =============
 - [Programmieren mit Python, Arnold,Kohn,Plüss](http://www.tigerjython.ch/index.php?inhalt_links=navigation.inc.php&inhalt_mitte=home/home.inc.php)
 - [Programmieren mit Python, Kohn](http://jython.tobiaskohn.ch/index-de.html)
+- [Programmieraufgaben](http://www.programmieraufgaben.ch/)
 - [http://www.scipy.org/Cookbook](http://www.scipy.org/Cookbook)
 - [http://www.scipy.org/Tentative_NumPy_Tutorial](http://www.scipy.org/Tentative_NumPy_Tutorial)
 - [http://wwwpub.zih.tu-dresden.de/~knoll/python/material/](http://wwwpub.zih.tu-dresden.de/~knoll/python/material/)
