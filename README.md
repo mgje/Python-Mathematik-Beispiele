@@ -52,3 +52,5 @@ können eine Distribution unter folgendem [Link](http://www.enthought.com/produc
 - [http://wwwpub.zih.tu-dresden.de/~knoll/python/material/](http://wwwpub.zih.tu-dresden.de/~knoll/python/material/)
 - [https://github.com/mgje/scipy-lecture-notes](https://github.com/mgje/scipy-lecture-notes)
 - [http://glowingpython.blogspot.ch/2011/05/](http://glowingpython.blogspot.ch/2011/05/)
+
+Kommentare und Rückmeldungen sind willkommen und werden so rasch wie möglich aufgenommen.
