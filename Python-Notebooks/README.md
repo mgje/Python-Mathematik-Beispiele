@@ -7,8 +7,7 @@ Arbeiten im Computerlabor
 =========================
 1. MacMini hinten rechts einschalten
 1. Mit Linux starten
-	- 2 x Pfeiltaste rechts drücken und  Ubuntu wählen
-	-  :bust_in_silhouette: User: Enter drücken :leftwards_arrow_with_hook:
+	- 2 x Pfeiltaste nach rechts,  Ubuntu wählen + Enter drücken :leftwards_arrow_with_hook:
 1. Einloggen 
 	- :bust_in_silhouette: User: ```gast``` + Enter :leftwards_arrow_with_hook: ,  Passwort: ```gast``` + Enter :leftwards_arrow_with_hook:
 1. Browser Chromium starten
