@@ -29,10 +29,6 @@ Julia-Notebooks
 - [Mandelbrot](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Mandelbrot Menge.ipynb)
 - [Floyd-Warshall](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Algorithmus von Floyd und Warshall.ipynb)
 
-Einstieg ins wissenschaftliche Rechnen
-======================================
-
-- [Modellierung dynamischer Systeme](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/notebook/Modellierung dynamischer Systeme.ipynb)
 
 Installation von Python und den nötigen Bibliotheken
 ====================================================
