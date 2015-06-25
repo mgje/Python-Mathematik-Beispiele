@@ -10,7 +10,7 @@ Arbeiten im Computerlabor
 	- 2 x Pfeiltaste nach rechts,  Ubuntu wählen + Enter drücken :leftwards_arrow_with_hook:
 1. Einloggen 
 	- :bust_in_silhouette: User: ```gast``` + Enter :leftwards_arrow_with_hook: ,  Passwort: ```gast``` + Enter :leftwards_arrow_with_hook:
-1. Browser Chromium starten
+1.Chromium Browser starten
 	- :symbols: Command+A drücken,  ```chromium``` + Enter :leftwards_arrow_with_hook:
 1. Download Archiv mit Python Notebooks
 	- :page_with_curl: [https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master](https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master)	
