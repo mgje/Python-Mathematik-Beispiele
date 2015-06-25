@@ -14,8 +14,8 @@ Kurven)
 - [Artikel zur Populationsdynamik](Mathematik_Artikel/Populationsdynamik_koerner_Istron6.pdf)
 - [Beispiel zum Rundreiseproblem, Python Sourcecode](Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
 - [Numerischen Optimierung, Python Sourcecode](Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
-- [Arbeiten mit aktuellen Meteodaten](Python-Beispiele/openMeteoDaten) 
-- [numerische Lösungen von DGL](Python-Beispiele/numDGL)  
+- [Arbeiten mit aktuellen Meteodaten, Python Sourcecode](Python-Beispiele/openMeteoDaten) 
+- [numerische Lösungen von DGL, Python Sourcecode](Python-Beispiele/numDGL)  
 
 
 
