@@ -25,8 +25,7 @@ Arbeiten im Computerlabor
 	- ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` 
 
 1. Verschiedene interaktive Arbeitsblätter finden sich im Ordner: ```Downloads/Python-Notebooks```
-	- Klicken Sie auf Downloads
-	- Klicken Sie auf Python Notebooks
+
 
 Bedienung und Befehle
 =====================
