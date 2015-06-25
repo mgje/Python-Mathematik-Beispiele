@@ -22,9 +22,11 @@ Kurven)
 ## Julia-Notebooks
 Um die Julia Beispiele auführen zu können muss IPython und die Programmiersprache [JULIA](http://julialang.org/) installiert sein.
 
--[Algorithmus von Floyd and Warshall](JULIA-Notebooks/Algorithmus%20von%20Floyd%20und%20Warshall.ipynb)
-
-
+- [Algorithmus von Floyd and Warshall](JULIA-Notebooks/Algorithmus%20von%20Floyd%20und%20Warshall.ipynb)
+- [Mandelbrot Menge](JULIA-Notebooks/Julia%20Mandelbrot%20Menge.ipynb)
+- [Julia_Matplotlib_Examples](JULIA-Notebooks/Julia_Matplotlib_Examples.ipynb)
+- [Mathe macht Musik](JULIA-Notebooks/Mathe_macht_Musik.ipynb)
+- [Approximation SIN](JULIA-Notebooks/Sin_Approximation.ipynb)
 
 ## Installation von Python und den nötigen Bibliotheken
 Ein Grund für den Erfolg von Python ist die freie Verfügbarkeit (open source) 
