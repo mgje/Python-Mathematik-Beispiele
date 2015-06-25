@@ -14,7 +14,7 @@ Arbeiten im Computerlabor
 	- :symbols: Command+A drücken,  ```chromium``` + Enter :leftwards_arrow_with_hook:
 1. Python-Notebooks von GitHub __herunterladen__
 	- :page_with_curl: [https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master](https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master)
-	- 
+
 1. Archiv öffnen und Ordner Python-Notebooks nach Downloads extrahieren.
 	- Datei anklicken
 	- Ordner Python-Notbooks nach Downloads extrahieren
