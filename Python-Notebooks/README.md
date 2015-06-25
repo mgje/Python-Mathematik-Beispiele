@@ -15,7 +15,7 @@ Arbeiten im Computerlabor
 1. Python-Notebooks von GitHub __herunterladen__
 	- :page_with_curl: [https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master](https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master)
 
-1. Archiv öffnen und Ordner Python-Notebooks nach Downloads extrahieren.
+1. Archiv öffnen, Ordner :file_folder: ```Python-Notebooks``` in den  Ordner :file_folder: ```Downloads``` extrahieren.
 	- Datei anklicken
 	- Ordner Python-Notbooks nach Downloads extrahieren
 1. Terminal starten
