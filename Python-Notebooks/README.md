@@ -31,12 +31,12 @@ Arbeiten im Computerlabor
 
 ## IPython Notebook starten / stoppen
 
-- Starten:  Terminalbefehl ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` 
+- Starten mit dem Terminalbefehl: ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` + Enter :leftwards_arrow_with_hook:
 - Stoppen:  Terminal anwählen, :symbols: Ctrl + C drücken und Abbruch mit ```y``` :leftwards_arrow_with_hook: bestätigen.
 - Eine Simulation kann mit Hilfe von Kernel/Restart neu gestartet werden. Dies hilft auch, wenn das System irgenwo hängt. 
 
 
-## IPython Notebook Befehle
+## IPython Notebook Benutzerschnittstelle
 
 - Mit der Tastenkobination CTRL + Enter kann ein einzelner Block ausgeführt werden.
 - Eine interaktive IPython Notebook Tour lässt im Menü Help/User Interface Tour starten
