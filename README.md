@@ -1,7 +1,7 @@
 [Python-Mathematik-Beispiele](http://mgje.github.com/Python-Mathematik-Beispiele/)
 =============================
 
-## Interaktive Python-Notebooks
+## Interaktive Python-Notebooks [Link](Python-Notebooks/)
 - [Modellierung dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
 - [Reaktions-Diffusions-System oder wie die Giraffe ihr Muster erhält](Python-Notebooks/Reaktions-Diffusions-System.ipynb)
 - [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)
@@ -19,7 +19,7 @@ Kurven)
 - [Arbeiten mit aktuellen Meteodaten, Python Sourcecode](Python-Beispiele/openMeteoDaten) 
 - [numerische Lösungen von DGL, Python Sourcecode](Python-Beispiele/numDGL)  
 
-## Julia-Notebooks
+## Julia-Notebooks [Link](JULIA-Notebooks/)
 [Julia](http://julialang.org/)  ist eine neue dynamische ***high-level***, ___high-performance___  Programmiersprache. Um die Beispiele auführen zu können muss IPython und die Programmiersprache [JULIA](http://julialang.org/) installiert sein.
 
 - [Algorithmus von Floyd and Warshall](JULIA-Notebooks/Algorithmus%20von%20Floyd%20und%20Warshall.ipynb)
