@@ -33,14 +33,19 @@ Julia-Notebooks
 Installation von Python und den nötigen Bibliotheken
 ====================================================
 Ein Grund für den Erfolg von Python ist die freie Verfügbarkeit (open source) 
-und die Unterstützung aller Plattformen(Win,OSX und Linux).Es gibt unzählige 
-Softwarepakete (Bibliotheken),welche Python für spezifische Aufgaben erweitern. 
+und die Unterstützung aller Plattformen(Win,OSX und Linux). Es gibt unzählige 
+Softwarepakete (Bibliotheken), welche Python für spezifische Aufgaben erweitern. 
 Eine Übersicht der verschiedenen Pakete liefert die Seite 
 [http://pypi.python.org/pypi](http://pypi.python.org/pypi). 
 Die Vielzahl an unterschiedlichen Möglichkeiten einer Installation erschweren das 
-Leben für Einsteiger. Aus diesem Grund empfehle ich, eine vollständige Paketlösung der 
-Firma Enthought zu installieren. Diese ermöglicht eine automatisierte Installation für 
-alle Plattformen und beinhalte eine grossen Anzahl Bibliotheken. Bildungsinstitutionen 
+Leben für Einsteiger. Hier bietet die Entwicklungsumgebung TigerJython einen einfachen
+Ausweg.
+
+
+
+Die vollständige Paketlösung der 
+Firma Enthought ermöglicht eine automatisierte Installation für 
+alle Plattformen und beinhaltet eine grossen Anzahl Bibliotheken. Bildungsinstitutionen 
 können die Enthought Distribution unter folgendem
 [Link](http://www.enthought.com/products/epd_free.php) beziehen.
 
