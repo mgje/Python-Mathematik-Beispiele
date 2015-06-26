@@ -2,7 +2,7 @@ Python-Beispiele
 ===========================
 
 ## Interaktive Python-Notebooks [Link](Python-Notebooks/)
-- [Modellierung dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
+- [Modellierung Dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
 - [Reaktions-Diffusions-System oder wie die Giraffe ihr Muster erhält](Python-Notebooks/Reaktions-Diffusions-System.ipynb)
 - [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)
 - [Statiksimulation](Python-Notebooks/Federmodell.ipynb)
@@ -15,12 +15,12 @@ Kurven)
 - [Python im Schuleinsatz (2012), Folien (PDF)](Python_im_Schuleinsatz.pdf?raw=true)
 - [Artikel zur Populationsdynamik](Mathematik_Artikel/Populationsdynamik_koerner_Istron6.pdf)
 - [Beispiel zum Rundreiseproblem, Python Sourcecode](Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
-- [Numerischen Optimierung, Python Sourcecode](Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
+- [Numerische Optimierung, Python Sourcecode](Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
 - [Arbeiten mit aktuellen Meteodaten, Python Sourcecode](Python-Beispiele/openMeteoDaten) 
-- [numerische Lösungen von DGL, Python Sourcecode](Python-Beispiele/numDGL)  
+- [Numerische Lösungen von DGL, Python Sourcecode](Python-Beispiele/numDGL)  
 
 ## Julia-Notebooks [Link](JULIA-Notebooks/)
-[Julia](http://julialang.org/)  ist eine neue dynamische ***high-level***, ___high-performance___  Programmiersprache. Um die Beispiele auführen zu können muss IPython und die Programmiersprache [JULIA](http://julialang.org/) installiert sein.
+[Julia](http://julialang.org/)  ist eine neue dynamische ***high-level*** und ___high-performance___  Programmiersprache. Um die Beispiele auführen zu können muss IPython und die Programmiersprache [JULIA](http://julialang.org/) installiert sein.
 
 - [Algorithmus von Floyd and Warshall](JULIA-Notebooks/Algorithmus%20von%20Floyd%20und%20Warshall.ipynb)
 - [Mandelbrot Menge](JULIA-Notebooks/Julia%20Mandelbrot%20Menge.ipynb)
@@ -37,11 +37,11 @@ Eine Übersicht der verschiedenen Pakete liefert die Seite
 Die Vielzahl an unterschiedlichen Möglichkeiten einer Installation erschweren das 
 Leben für Einsteiger. Hier bietet die freie [Entwicklungsumgebung TigerJython](http://jython.tobiaskohn.ch/index-de.html) einen einfache Lösung. Einsteiger können nach dem Herunterladen einer Datei direkt starten.
 
-Das Projekt [Anaconda](http://docs.continuum.io/anaconda/install.html) ist ein Paketmanagement System für
-alle Plattformen. Python und IPython lassen sich damit auf einfache Art und Weise installieren.
-Die kommerzielle Lösung der Firma Enthought ermöglicht eine automatisierte Installation für 
-alle Plattformen und beinhaltet eine grossen Anzahl Bibliotheken. Bildungsinstitutionen 
-können eine Distribution unter folgendem [Link](http://www.enthought.com/products/epd_free.php) beziehen.
+[Anaconda](http://docs.continuum.io/anaconda/install.html) ist ein Paketverwaltung für Python Bibliotheken und Module. 
+Python und IPython lassen sich damit auf einfache Art und Weise installieren.
+Eine kommerzielle Lösung ermöglicht die Firma Enthought mit einer automatisierten Installation für 
+alle Plattformen. Diese beinhaltet eine grossen Anzahl Bibliotheken. Bildungsinstitutionen 
+können die Software unter dem folgenden [Link](http://www.enthought.com/products/epd_free.php) beziehen.
 
 ## Weitere Links
 - [Programmieren mit Python, Arnold,Kohn,Plüss](http://www.tigerjython.ch/index.php?inhalt_links=navigation.inc.php&inhalt_mitte=home/home.inc.php)
