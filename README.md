@@ -1,4 +1,4 @@
-Python-Mathematik-Beispiele
+Python-Beispiele
 ===========================
 
 ## Interaktive Python-Notebooks [Link](Python-Notebooks/)
