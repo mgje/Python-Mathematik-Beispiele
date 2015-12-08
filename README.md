@@ -8,7 +8,7 @@ Python-Beispiele
 - [Statiksimulation](Python-Notebooks/Federmodell.ipynb)
 
 ## Weitere Python-Notebooks
-- [Analycing Data](https://jakevdp.github.io/)
+- [Data analysis with Python](https://jakevdp.github.io/)
 
 
 
