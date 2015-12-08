@@ -9,6 +9,6 @@
 - [Matrix for R, Py and Julia](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet_table.html)
 - [Sanders SciPy 2014](https://github.com/dpsanders/scipy_2014_julia)
 - [Sanders Hands on Julia 2015](https://github.com/dpsanders/hands_on_julia)
-- []()
+- [Julia side of quant-econ.net](http://quant-econ.net/jl/index.html)
 - []()
 - []()
