@@ -14,6 +14,7 @@ Python-Beispiele
 - [http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb](http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb)
 - [http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
 - [Maths with Python](https://github.com/IanHawke/maths-with-python)
+- [Bayesian Methods for Hackers](https://github.com/josh-gree/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 
 ## Unterlagen und Python Sourcecode
