@@ -10,5 +10,5 @@
 - [Sanders SciPy 2014](https://github.com/dpsanders/scipy_2014_julia)
 - [Sanders Hands on Julia 2015](https://github.com/dpsanders/hands_on_julia)
 - [Julia side of quant-econ.net](http://quant-econ.net/jl/index.html)
-- []()
+- [tips for adding coding to your analysis arsenal](http://www.the-scientist.com/?articles.view/articleNo/43632/title/Get-With-the-Program/)
 - []()
