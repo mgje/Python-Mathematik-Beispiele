@@ -9,7 +9,10 @@ Python-Beispiele
 
 ## Weitere Python-Notebooks
 - [Data analysis with Python](https://jakevdp.github.io/)
-
+- [http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb](http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb)
+- [http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb)
+- [http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb](http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb)
+- [http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
 
 
 ## Unterlagen und Python Sourcecode
