@@ -6,6 +6,12 @@ Python-Beispiele
 - [Reaktions-Diffusions-System oder wie die Giraffe ihr Muster erhält](Python-Notebooks/Reaktions-Diffusions-System.ipynb)
 - [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)
 - [Statiksimulation](Python-Notebooks/Federmodell.ipynb)
+___
+
+## Weitere Python-Notebooks
+-[Analycing Data](https://jakevdp.github.io/)
+
+
 
 ## Unterlagen und Python Sourcecode
 - [Skript Wissenschaftliches Rechnen mit Python](Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
