@@ -7,6 +7,16 @@ Python-Beispiele
 - [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)
 - [Statiksimulation](Python-Notebooks/Federmodell.ipynb)
 
+## Weitere Python-Notebooks
+- [Data analysis with Python](https://jakevdp.github.io/)
+- [http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb](http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb)
+- [http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb)
+- [http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb](http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb)
+- [http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/](http://beautifuldata.net/2014/03/datalicious-notebookmania-my-favorite-7-ipython-notebooks/)
+- [Maths with Python](https://github.com/IanHawke/maths-with-python)
+- [Bayesian Methods for Hackers](https://github.com/josh-gree/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
+
 ## Unterlagen und Python Sourcecode
 - [Skript Wissenschaftliches Rechnen mit Python](Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
 (Einstieg, Ausdrücke, Zuweisungen, Schleifen, Listen
