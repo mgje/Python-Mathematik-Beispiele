@@ -14,7 +14,7 @@ Arbeiten in der Cloud (für BYOD)
 weitere Jupyter-Notebooks
 =========================
 
-TO Do in Veranstaltung
+- [Lotto](Python-Notebooks/Lotto.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Lotto.ipynb)
 
 Arbeiten im Computerlabor
 =========================
