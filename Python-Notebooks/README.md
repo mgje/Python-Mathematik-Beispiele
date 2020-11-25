@@ -11,7 +11,7 @@ Arbeiten in der Cloud (für BYOD)
 - [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
 - [Statiksimulation](Python-Notebooks/Federmodell.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Federmodell.ipynb)
 
-- [Statiksimulation](Python-Notebooks/Federmodell.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/epiCycles.ipynb)
+- [epicycles](Python-Notebooks/epiCycles.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/epiCycles.ipynb)
 
 
 
