@@ -3,9 +3,9 @@ Python-Beispiele
 
 ## Interaktive Python-Notebooks [Link](Python-Notebooks/)
 - [Modellierung Dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
-- [Reaktions-Diffusions-System oder wie die Giraffe ihr Muster erhält](Python-Notebooks/Reaktions-Diffusions-System.ipynb)
-- [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)
-- [Statiksimulation](Python-Notebooks/Federmodell.ipynb)
+- [Reaktions-Diffusions-System oder wie die Giraffe ihr Muster erhält](Python-Notebooks/Reaktions-Diffusions-System.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Reaktions-Diffusions-System.ipynb)
+- [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
+- [Statiksimulation](Python-Notebooks/Federmodell.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Federmodell.ipynb)
 
 ## Weitere Python-Notebooks
 - [Data analysis with Python](https://jakevdp.github.io/)
