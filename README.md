@@ -2,7 +2,7 @@ Python-Beispiele
 ===========================
 
 ## Interaktive Python-Notebooks [Link](Python-Notebooks/)
-- [Modellierung Dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
+- [Modellierung Dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
 - [Reaktions-Diffusions-System oder wie die Giraffe ihr Muster erhält](Python-Notebooks/Reaktions-Diffusions-System.ipynb)
 - [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)
 - [Statiksimulation](Python-Notebooks/Federmodell.ipynb)
