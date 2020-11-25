@@ -6,12 +6,12 @@ Elektronische Unterlagen
 Arbeiten in der Cloud (für BYOD)
 ================================
 
-- [Modellierung Dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
-- [Reaktions-Diffusions-System oder wie die Giraffe ihr Muster erhält](Python-Notebooks/Reaktions-Diffusions-System.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Reaktions-Diffusions-System.ipynb)
-- [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
-- [Statiksimulation](Python-Notebooks/Federmodell.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Federmodell.ipynb)
+- [Modellierung Dynamischer Systeme](Modellierung%20dynamischer%20Systeme.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
+- [Reaktions-Diffusions-System oder wie die Giraffe ihr Muster erhält](Reaktions-Diffusions-System.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Reaktions-Diffusions-System.ipynb)
+- [Vogelschwarm](Schwarm.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
+- [Statiksimulation](Federmodell.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Federmodell.ipynb)
 
-- [epicycles](Python-Notebooks/epiCycles.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/epiCycles.ipynb)
+- [epicycles](epiCycles.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/epiCycles.ipynb)
 
 
 
