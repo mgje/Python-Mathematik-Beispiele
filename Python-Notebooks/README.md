@@ -3,6 +3,16 @@ Elektronische Unterlagen
 * HTML-5 Slides: Virtuelle Modelle und Simulationen, Link:  [http://mgje.github.io/presentations/simulation/#/](http://mgje.github.io/presentations/simulation/#/) oder __[http://goo.gl/V2Hvs6](http://goo.gl/V2Hvs6)__
 * Anleitung zum Arbeiten im Computerlabor, Link: [https://github.com/mgje/Python-Mathematik-Beispiele/tree/master/Python-Notebooks](https://github.com/mgje/Python-Mathematik-Beispiele/tree/master/Python-Notebooks) oder __[https://goo.gl/qD8yqw](https://goo.gl/qD8yqw)__
 
+Arbeiten in der Cloud (für BYOD)
+================================
+
+- [Modellierung Dynamischer Systeme](Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
+- [Reaktions-Diffusions-System oder wie die Giraffe ihr Muster erhält](Python-Notebooks/Reaktions-Diffusions-System.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Reaktions-Diffusions-System.ipynb)
+- [Vogelschwarm](Python-Notebooks/Schwarm.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
+- [Statiksimulation](Python-Notebooks/Federmodell.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Federmodell.ipynb)
+
+
+
 Arbeiten im Computerlabor
 =========================
 1. MacMini hinten rechts einschalten
